@@ -7,6 +7,10 @@ class GFG
 	{
 
 	Console.WriteLine("Hello Game Devs!");
+
 	Console.WriteLine("Welcome!");
+
+	Console.WriteLine("Goodbye.");
+
 	}
 }
